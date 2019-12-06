@@ -1,3 +1,5 @@
+Just a testing project, in which i connect pouchdb to react and fetch all docs from db. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
